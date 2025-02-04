@@ -2,7 +2,9 @@
 
 # SlideSift - The Smart Way to Filter Slides
 
-## Video Demo:
+## Video Demo 
+
+https://youtu.be/i_GIHZEYEjk
 
 ## Description
 
