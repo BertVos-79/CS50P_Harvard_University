@@ -1,4 +1,4 @@
-![CS50P Banner](image/CS50P_image.webp)
+![CS50P Banner](image/CS50P_image2.webp)
 
 # CS50's Introduction to Programming with Python (Harvard University)
 
